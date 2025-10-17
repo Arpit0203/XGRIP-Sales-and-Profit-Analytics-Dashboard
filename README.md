@@ -12,7 +12,7 @@
 ![Product Analysis](https://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/product.png)  
 
 ### **Map Analysis Dashboard**  
-![Map Analysis](http://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/dark%20map.png)  
+![Map Analysis](https://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/dark%20map.png)  
 
 ---
 
@@ -73,7 +73,7 @@ The dashboard provides clear and actionable insights into sales, profits, and pr
 ![Product Analysis](https://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/product.png)  
 
 **Map Analysis Dashboard**  
-![Map Analysis](http://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/dark%20map.pn)  
+![Map Analysis](https://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/dark%20map.png)  
 
 **Light and Dark Mode Example**  
 ![Light and Dark Mode](https://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/light%20dashboard.png)
