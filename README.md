@@ -1,18 +1,18 @@
 # **XGRIP Sales and Profit Analytics Dashboard**
 
-![](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/img1.png)
+![](https://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/img1.png)
 
 ### **Light and Dark Executive Dashboard**  
-![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)  
+![Light and Dark Mode](https://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/light%20dashboard.png)  
 
 ### **Sales Overview Dashboard**  
-![Sales Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
+![Sales Overview](https://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/dark%20dashboard.png)  
 
 ### **Product Analysis Dashboard**  
-![Product Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
+![Product Analysis](https://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/product.png)  
 
 ### **Map Analysis Dashboard**  
-![Map Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20map.png)  
+![Map Analysis](http://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/dark%20map.png)  
 
 ---
 
@@ -67,16 +67,16 @@ The dashboard provides clear and actionable insights into sales, profits, and pr
 
 ### **Screenshots**  
 **Sales Overview Dashboard**  
-![Sales Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
+![Sales Overview](https://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/dark%20dashboard.png)  
 
 **Product Analysis Dashboard**  
-![Product Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
+![Product Analysis](https://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/product.png)  
 
 **Map Analysis Dashboard**  
-![Map Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20map.png)  
+![Map Analysis](http://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/dark%20map.pn)  
 
 **Light and Dark Mode Example**  
-![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)
+![Light and Dark Mode](https://github.com/Arpit0203/XGRIP-Sales-and-Profit-Analytics-Dashboard/blob/main/light%20dashboard.png)
 
 ---
 
@@ -90,8 +90,3 @@ Explore the live dashboard here: **[Link to Online Reports Page](https://app.pow
 2. Navigate between pages using bookmarks and buttons.  
 3. Drillthrough on products or returns charts for detailed insights.  
 4. Toggle between light and dark modes for your viewing preference.
-
----
-
-### **Copyright:**  
-Project dataset created by ZeroAnalyst; it is a simulated company for learning purposes.
